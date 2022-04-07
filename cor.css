@@ -293,6 +293,9 @@ h2.nortxt{
 	.main-container{
 		grid-template-columns: repeat(1, 1fr);
 	}
+	.main-container2{
+		grid-template-columns: repeat(1, 1fr);
+	}
 	.w-2,.w-3{
 		grid-column:1;
 	}
